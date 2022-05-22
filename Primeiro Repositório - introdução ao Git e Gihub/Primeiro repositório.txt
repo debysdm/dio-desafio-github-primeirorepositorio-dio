@@ -1,4 +1,4 @@
-Meu primeiro repositório - Introdução ao GIT e GITHUB
+Meu primeiro repositório - Introdução ao GIT/GITHUB
 
 *Aprendendo a usar as ferramentas/códigos
 *Aprendeno a criar o Repositório
