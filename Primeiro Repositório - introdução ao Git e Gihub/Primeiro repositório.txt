@@ -1,0 +1,5 @@
+Meu primeiro repositório - Introdução ao GIT e GITHUB
+
+*Aprendendo a usar as ferramentas/códigos
+*Aprendeno a criar o Repositório
+*Aprendendo a usar o GIT/GITHUB como uma ferramenta que contribui com o nosso aprendizado e/ou carreira.
